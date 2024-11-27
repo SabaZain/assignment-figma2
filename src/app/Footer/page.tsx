@@ -20,7 +20,7 @@ const Footer = () => {
             <input
             type='email'
             placeholder='Enter your email'
-            className='border border-[#000000] rounded text-[16px] font-normal p-[6px] pr-20 m-1' />
+            className='border border-[#000000] rounded text-[16px] font-normal p-[6px] pr-14 m-1' />
            <button className='border border-[#000000] rounded text-[14px] font-normal p-[7px] pl-[215px] md:pl-1 lg:pl-1 m-1 hover:bg-[#000000] hover:text-[#FFFFFF]'>Subscribe</button>
         </div>
         <div>
@@ -29,7 +29,7 @@ const Footer = () => {
       </div>
       </div>
       <div className='pt-20 pb-10 m-3 ml-36 md:ml-8 lg:ml-8  mr-24 flex flex-col md:flex-row lg:flex-row justify-between gap-2'>
-        <div className='ml-10'> 
+        <div className='ml-8'> 
         <Image src={"/Image/Ddsgnr.svg"} alt={"union logo"} width={90} height={30} />
         </div>
 
