@@ -14,7 +14,7 @@ const CardLayout: React.FC = () => {
             <li>Recommended</li>
             <li>Best Price</li>
           </ul>
-        <div className="flex flex-col md:flex-row lg:flex-row justify-around pl-8 md:pl-0 lg:pl-0 ">
+        <div className="flex flex-col md:flex-row lg:flex-row justify-around pl-5 md:pl-0 lg:pl-0 ">
              
             <Card
              ImageSrc="/Image/main1.svg"
@@ -38,7 +38,7 @@ const CardLayout: React.FC = () => {
             elit. Suspendisse varius enim in eros."
             />
             </div>
-            <div className="flex flex-col md:flex-row lg:flex-row justify-around pl-8 md:pl-0 lg:pl-0 ">
+            <div className="flex flex-col md:flex-row lg:flex-row justify-around pl-5 md:pl-0 lg:pl-0 ">
             <Card
              ImageSrc="/Image/main4.svg"
              subtitle="Art"
