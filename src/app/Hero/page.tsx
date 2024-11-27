@@ -6,7 +6,7 @@ const HeroPage = () => {
   return (
     <div>
       <div className='flex flex-col md:flex-row lg:flex-row justify-center'>
-        <div className='w-full md:w-1/2 lg:w-1/2 pl-9 pt-8 md:pt-40 lg:pt-40 justify-center'>
+        <div className='w-full md:w-1/2 lg:w-1/2 pl-5 pt-8 md:pt-40 lg:pt-40 justify-center'>
           <h1 className='text-[#000000] text-4xl font-bold'>Learn new skills <br /> online with ease</h1>
           <p className='text-[#000000] text-[16px] md:text-[18px] lg:text-[18px] pt-5 hidden md:flex lg:flex'>Discover a wide range of courses covering a variety of <br /> subjects, taught by expert instructors.</p>
           <p className='text-[#000000] text-[16px] md:text-[18px] lg:text-[18px] pt-5 md:hidden lg:hidden'>Discover a wide range of courses covering a <br /> variety of subjects, taught by expert instructors.</p>
@@ -35,9 +35,10 @@ const HeroPage = () => {
         <Image src={"/Image/Airbnb Logo.svg"} alt={"logo 1"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo1.svg"} alt={"logo 2"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo2.svg"} alt={"logo 3"} width={123.8} height={38.52} />
-        <Image src={"/Image/Airbnb Logo3.svg"} alt={"logo 4"} width={123.8} height={38.52} />
+        
         
         <div className='flex'>
+        <Image src={"/Image/Airbnb Logo3.svg"} alt={"logo 4"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo4.svg"} alt={"logo 5"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo5.svg"} alt={"logo 6"} width={123.8} height={38.52}/>
         </div>
