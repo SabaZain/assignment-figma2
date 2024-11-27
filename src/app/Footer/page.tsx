@@ -16,7 +16,7 @@ const Footer = () => {
         <p className='text-[16px] text-[#000000] font-normal text-center md:text-start lg:text-start'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
       <div>
-        <div className='flex-col md:flex-row lg:flex-row gap-[8px] pb-4 pr-12 pl-14 md:pl-0 lg:pl-0'>
+        <div className='flex-col md:flex-row lg:flex-row gap-[8px] pb-4 pr-12 '>
             <input
             type='email'
             placeholder='Enter your email'
@@ -77,7 +77,7 @@ const Footer = () => {
     </ul>
     </div>
     <div>
-    <ul className='flex gap-2 pt-8 md:pt-0 lg:pt-0 ml-40 md:ml-0 lg:ml-0'>
+    <ul className='flex gap-2 pt-8 md:pt-0 lg:pt-0 ml-32 md:ml-0 lg:ml-0'>
         <li><FaFacebookF /></li>
         <li><FaInstagram /></li>
         <li><FaTwitter /></li>
