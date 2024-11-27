@@ -7,7 +7,7 @@ const AchievementPage = () => {
           <h1 className='pt-8 text-center text-3xl font-bold text-[#000000]'>Our Achivements</h1>
           <p className='text-center text-sm md:text-[18px] lg:text-[18px] font-normal pt-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra <br /> 
          ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
-         <div className='flex-row md:flex lg:flex justify-center align items-center gap-32 mt-8 pl-32 md:pl-0 lg:pl-0'>
+         <div className='flex-row md:flex lg:flex justify-center align items-center gap-32 mt-8 pl-24 md:pl-0 lg:pl-0'>
           <div className='flex gap-20 md:gap-32 lg:gap-32 pb-6'>
           <div>
             <h2 className='text-[30px] font-bold'>+200</h2>
