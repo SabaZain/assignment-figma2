@@ -6,7 +6,7 @@ const HeroPage = () => {
   return (
     <div>
       <div className='flex flex-col md:flex-row lg:flex-row justify-center'>
-        <div className='w-full md:w-1/2 lg:w-1/2 pl-24 pt-8 md:pt-40 lg:pt-40 justify-center'>
+        <div className='w-full md:w-1/2 lg:w-1/2 pl-14 pt-8 md:pt-40 lg:pt-40 justify-center'>
           <h1 className='text-[#000000] text-4xl font-bold'>Learn new skills <br /> online with ease</h1>
           <p className='text-[#000000] text-[16px] md:text-[18px] lg:text-[18px] pt-5 hidden md:flex lg:flex'>Discover a wide range of courses covering a variety of <br /> subjects, taught by expert instructors.</p>
           <p className='text-[#000000] text-[16px] md:text-[18px] lg:text-[18px] pt-5 md:hidden lg:hidden'>Discover a wide range of courses covering a <br /> variety of subjects, taught by expert instructors.</p>
@@ -24,7 +24,7 @@ const HeroPage = () => {
           />
         </div>
       </div>
-      <div className='flex flex-col md:flex-row lg:flex-row justify-between align items-center bg-[#F7F7F7] pt-[40px] pb-[40px]'>
+      <div className='flex flex-col md:flex-row lg:flex-row justify-between align items-center bg-[#F7F7F7] pt-[40px] pb-[40px] pl-2'>
       <div>
         <h2 className='text-[#000000] font-bold w-[320] h-[68] hidden md:flex lg:flex'>Trusted by 2000+ companies <br /> worldwide.</h2>
         <h2 className='text-[#000000] font-bold w-[320] h-[68] pr-36 pb-2 md:hidden lg:hidden'>Trusted by the world&apos;s best companies <br />
