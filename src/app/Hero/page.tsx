@@ -24,14 +24,14 @@ const HeroPage = () => {
           />
         </div>
       </div>
-      <div className='flex flex-col md:flex-row lg:flex-row justify-between align items-center bg-[#F7F7F7] pt-[40px] pb-[40px] pl-2'>
+      <div className='flex flex-col md:flex-row lg:flex-row justify-between align items-center bg-[#F7F7F7] pt-[40px] pb-[40px] '>
       <div>
         <h2 className='text-[#000000] font-bold w-[320] h-[68] hidden md:flex lg:flex'>Trusted by 2000+ companies <br /> worldwide.</h2>
         <h2 className='text-[#000000] font-bold w-[320] h-[68] pr-36 pb-2 md:hidden lg:hidden'>Trusted by the world&apos;s best companies <br />
         [social proof to build credibility]</h2>
       </div>
       <div>
-      <div className='flex flex-row md:flex-row lg:flex-row'>
+      <div className='flex flex-row md:flex-row lg:flex-row pl-1'>
         <Image src={"/Image/Airbnb Logo.svg"} alt={"logo 1"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo1.svg"} alt={"logo 2"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo2.svg"} alt={"logo 3"} width={123.8} height={38.52} />
