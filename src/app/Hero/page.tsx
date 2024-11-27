@@ -34,7 +34,7 @@ const HeroPage = () => {
       <div className='flex flex-row md:flex-row lg:flex-row pl-1'>
         <Image src={"/Image/Airbnb Logo.svg"} alt={"logo 1"} width={123.8} height={38.52} />
         <Image src={"/Image/Airbnb Logo1.svg"} alt={"logo 2"} width={123.8} height={38.52} />
-        <Image src={"/Image/Airbnb Logo2.svg"} alt={"logo 3"} width={123.8} height={38.52} />
+        <Image src={"/Image/Airbnb Logo2.svg"} alt={"logo 3"} width={110} height={30} />
         
         
         <div className='hidden md:flex lg:flex'>
