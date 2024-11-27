@@ -9,7 +9,7 @@ const CardLayout1: React.FC = () => {
           <h1 className='pt-8 text-2xl md:text-2xl lg:text-3xl text-center pr-4 md:pr-52 lg:pr-52 font-bold text-[#000000]'>Explore Courses By Category</h1>
           <p className='pt-2 text-sm text-center pr-2 md:pr-9 lg:pr-9'>Discover a wide range of courses covering a variety of subjects, taught by expert instructors.</p>
         </div>
-        <div className="flex-col md:flex-row lg:flex-row pl-20 md:pl-0 lg:pl-0">
+        <div className="flex-col md:flex-row lg:flex-row pl-12 md:pl-0 lg:pl-0">
             <div className="flex flex-col md:flex-row lg:flex-row justify-center gap-6 mt-8">
                 <Card1
                 ImageSrc="/Image/designdev.svg"
