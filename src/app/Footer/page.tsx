@@ -29,7 +29,7 @@ const Footer = () => {
       </div>
       </div>
       <div className='pt-20 pb-10 m-3 ml-36 md:ml-8 lg:ml-8  mr-24 flex flex-col md:flex-row lg:flex-row justify-between gap-2'>
-        <div className='ml-8'> 
+        <div className='ml-5'> 
         <Image src={"/Image/Ddsgnr.svg"} alt={"union logo"} width={90} height={30} />
         </div>
 
