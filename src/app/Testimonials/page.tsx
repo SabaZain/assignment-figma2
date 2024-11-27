@@ -4,7 +4,7 @@ import Image from 'next/image';
 const TestimonialsPage = () => {
   return (
     <section id="testimonials" className='pt-8 pb-20 bg-[#F6F6F6]'>
-        <div className='pl-11 '>
+        <div className='pl-7 '>
         <h1 className='md:hidden lg:hidden pt-8 text-2xl text-center font-bold text-[#000000]'>What Our Student Say</h1>
           <h1 className='hidden md:flex lg:flex pt-8 text-3xl font-bold text-[#000000]'>Customer testimonials</h1>
           <p className='pt-2 text-sm text-center md:text-start lg:text-start'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
