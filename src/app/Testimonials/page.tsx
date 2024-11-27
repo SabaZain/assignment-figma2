@@ -16,11 +16,11 @@ const TestimonialsPage = () => {
             <Image src={"/Image/5stars.svg"} alt={"5 stars"} width={70} height={70} />
             </div>
             <div>
-              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>"Lorem ipsum dolor sit amet,<br /> 
+              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>&quot;Lorem ipsum dolor sit amet,<br /> 
               consectetur adipiscing elit.<br /> 
               Suspendisse varius enim in eros <br />
               elementum tristique. Duis cursus, mi<br /> 
-              quis viverra ornare."</p>
+              quis viverra ornare.&quot;</p>
               <div className='flex pt-3 gap-3'>
               <Image src={"/Image/image1.svg"} alt={"James Nduku Image"} width={50} height={50} />
               <div>
@@ -35,11 +35,11 @@ const TestimonialsPage = () => {
             <Image src={"/Image/5stars.svg"} alt={"5 stars"} width={70} height={70} />
             </div>
             <div>
-              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>"Lorem ipsum dolor sit amet,<br /> 
+              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>&quot;Lorem ipsum dolor sit amet,<br /> 
               consectetur adipiscing elit.<br /> 
               Suspendisse varius enim in eros <br />
               elementum tristique. Duis cursus, mi<br /> 
-              quis viverra ornare."</p>
+              quis viverra ornare.&quot;</p>
               <div className='flex pt-3 gap-3'>
               <Image src={"/Image/image2.svg"} alt={"Erick Kipkemboi Image"} width={50} height={50} />
               <div>
@@ -54,11 +54,11 @@ const TestimonialsPage = () => {
             <Image src={"/Image/5stars.svg"} alt={"5 stars"} width={70} height={70} />
             </div>
             <div>
-              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>"Lorem ipsum dolor sit amet,<br /> 
+              <p className='pr-12 text-[16px] md:text-sm lg:text-[16px]'>&quot;Lorem ipsum dolor sit amet,<br /> 
               consectetur adipiscing elit.<br /> 
               Suspendisse varius enim in eros <br />
               elementum tristique. Duis cursus, mi<br /> 
-              quis viverra ornare."</p>
+              quis viverra ornare.&quot;</p>
               <div className='flex pt-3 gap-3'>
               <Image src={"/Image/image3.svg"} alt={"Stephen Kerubo Image"} width={50} height={50} />
               <div>
